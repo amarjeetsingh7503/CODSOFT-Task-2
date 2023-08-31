@@ -220,12 +220,11 @@ a {
     height: 220px;
 }
 
-#btn{
+.btn{
     transition: transform 0.3s;
-    background-color: transform 0.3s;
 }
 
-#btn:hover{
+.btn:hover{
     transform: scale(1.1);
     background-color: #6b5290;
 }
