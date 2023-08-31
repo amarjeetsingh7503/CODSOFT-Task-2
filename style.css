@@ -222,6 +222,7 @@ a {
 
 #btn{
     transition: transform 0.3s;
+    background-color: transform 0.3s;
 }
 
 #btn:hover{
